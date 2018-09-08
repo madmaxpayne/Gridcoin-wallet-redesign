@@ -1,0 +1,1 @@
+Gridcoin-wallet-redesign
